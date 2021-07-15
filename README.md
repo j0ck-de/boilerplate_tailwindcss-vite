@@ -1,0 +1,3 @@
+# Boilerplate
+
+- DevDependecies: TailwindCSS, Vite
